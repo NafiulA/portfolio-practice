@@ -5,7 +5,7 @@ body{
 .name{
     color: salmon;
 }
-section{
+.flexible-container{
     display: flex;
     height: 720px;
     width: 100%;
